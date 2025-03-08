@@ -26,7 +26,19 @@ Think fast, wire smart, and make sure Sparty’s Boots only kick what they shoul
 - **Dynamic Elements:** Moving obstacles and interactive objects.  
 
 ## Screenshots  
+![Screenshot 1](Screenshot1.png)
 
+![Screenshot 2](Screenshot2.png)
+
+![Screenshot 3](Screenshot3.png)
+
+![Screenshot 4](Screenshot4.png)
+
+![Screenshot 5](Screenshot5.png)
+
+![Screenshot 6](Screenshot6.png)
+
+![Screenshot 7](Screenshot7.png)
 
 ## Installation & Setup  
 
